@@ -8,17 +8,17 @@ and its cause a O(n*n)  time-cost
 
 
 
-![image-20200718104024191](C:\Users\蒲哥\AppData\Roaming\Typora\typora-user-images\image-20200718104024191.png)
+![image-20200718104024191](https://github.com/PJSSABER/Algorithm/tree/master/image/image-20200718104024191.png)
 
 ### 通项公式的证明
 
-![image-20200718104400374](C:\Users\蒲哥\AppData\Roaming\Typora\typora-user-images\image-20200718104400374.png)
+![image-20200718104400374](https://github.com/PJSSABER/Algorithm/tree/master/image/image-20200718104400374.png)
 
-![image-20200718104426661](C:\Users\蒲哥\AppData\Roaming\Typora\typora-user-images\image-20200718104426661.png)
+![image-20200718104426661](https://github.com/PJSSABER/Algorithm/tree/master/image/image-20200718104426661.png)
 
 ### 递推公式的证明
 
-![image-20200718104524927](C:\Users\蒲哥\AppData\Roaming\Typora\typora-user-images\image-20200718104524927.png)
+![image-20200718104524927](https://github.com/PJSSABER/Algorithm/tree/master/image/image-20200718104524927.png)
 
 
 
