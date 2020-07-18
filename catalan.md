@@ -7,7 +7,6 @@ recursive-relation
 and its cause a O(n*n)  time-cost
 
 
-
 ![image-20200718104024191](https://github.com/PJSSABER/Algorithm/tree/master/image/image-20200718104024191.png)
 
 ### 通项公式的证明
